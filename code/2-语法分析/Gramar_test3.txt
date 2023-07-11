@@ -1,0 +1,10 @@
+S->A$
+A->id(v){PrE;}|vd(v){Pr;}
+P->D
+D->F;D|C;D|@|f(E){D}e{D}
+F->id=E|id
+C->d=E
+E->T|E+T
+T->Q|T*Q
+Q->d|(E)
+#

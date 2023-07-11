@@ -1,0 +1,10 @@
+ //abcdef
+/*ab
+
+gj*/
+void main(void){
+    int a=3;
+    int b=4;
+    a=(a+2)*b;
+    return;
+}#

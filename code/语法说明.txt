@@ -1,0 +1,40 @@
+目标C--语言：
+1.main函数
+2.语句：算术表达式、if-else、return
+3.类型：int、void
+
+
+举例：
+ //abcdef
+/*ab
+
+gj*/
+void main(void){
+    int a=3;
+    int b=4;
+    a=(a+2)*b;
+    return;
+}#
+
+1 关键字
+ {1, self, null}
+2 标识符
+ {2, ID, Maps[name]}
+3 数值 NUM
+ {3, NUM, value}
+4 算符（+ - * / == > !=）
+ {4, OP, null}
+5 界符（; , ( ) { } #）
+ {5, RANGE, null}
+6 赋值号
+ {6, ASSIGN, null}
+
+
+
+
+
+
+
+
+
+
